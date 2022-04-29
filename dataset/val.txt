@@ -1,0 +1,552 @@
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1885).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (433).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (48).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (806).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (791).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t235u3msgt0944a7jzn8hp_jpeg.rf.46fbbbd711da478f5db7e61287216aa5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1465).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (760).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1151).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke83.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (762).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1068).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txwk8k6owz0848gejqchq8_jpeg.rf.d431e6a3cf29ca3c97bda4035c2e26fa.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kmfd7ibcib0721v08q1jv0_jpeg.rf.8965bf83aff0df8ea94290a16227d8c9.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tzuao2wuuv0721d9vb3uvm_jpeg.rf.b22278e5e19f63a0a95634c876aeb3b1.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1796).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1233).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (204).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (909).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke4_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1490).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1099).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (544).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qbaubof1z40863w0scvpra_jpeg.rf.0cf7f4324a6fecd547297a7e34fa21e9.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t4pic2zxuv0848rp6npxiw_jpeg.rf.51acc548074c7c4f16893509aaf50fa5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1687).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tt28fjsc1i0838s2ji5dhe_jpeg.rf.c3f4f27777b611db32c5217e26c8ccfd.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (349).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (640).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (245).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kfjen48qhj0701wjkosmel_jpeg.rf.49b365cc7135deee1332e6657401abc5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (451).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nefzg24hv30863efhq3fp1_jpeg.rf.41edcde58daab549a1e3d2ac14b30449.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke35.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1410).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (447).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kl4d8y7e9x0838i33y0nta_jpeg.rf.d57cde80b3d701666c78b64f7bae4ddf.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1466).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (347).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (634).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (208).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke14.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (790).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1143).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (453).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1633).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t58uo4nvw40701ubn1fua7_jpeg.rf.da5481cdd88087908cd2c42ad46b2658.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1421).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqq0y3j4tu0848p884qvn1_jpeg.rf.654a70a2e86f0270af759b46d38ea769.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ukjupkwhfa0944r6gu3mh8_jpeg.rf.1d0b41b95001867438a9867fda448ddb.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (406).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1157).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0k99e6p79go0944lmxivkmv_jpeg.rf.035851b1218826a8d8e1f6cff055da7a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txvj9m6otr0848fayj9tte_jpeg.rf.3c297c7d21cbe8563aba079db5bffc65.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tzqdzqwucd07218blh12ir_jpeg.rf.7b142d2dda7d0e123d58679c4b321445.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (841).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1231).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (927).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1867).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (832).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (239).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (189).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (859).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1349).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1689).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1139).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lwj354jo7n07218v6vgpvi_jpeg.rf.fc8902a56fee92645b70779e6e418ba6.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (654).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (950).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (863).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (658).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (175).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0km26n78w6b0944d8vapoyy_jpeg.rf.dca702237c131e91e5ff8aac7758251b.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (747).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1527).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (432).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1028).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rp9zh85rbh0944g0fanl6o_jpeg.rf.3e6d03d3e66153e3461f5a6ed25960b5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1499).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (106).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1676).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (977).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1150).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke31_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kfljfp7vuk09441308dug1_jpeg.rf.dc55db65a3baa4ff7ed9768c00cc81f7.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (600).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1179).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1460).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (809).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tyzb4kwq9407210i0lbk6v_jpeg.rf.10b0732365f4a35069e26031ae48603d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (124).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1122).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (20).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1477).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1614).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (314).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1572).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (170).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1424).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1748).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1543).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqgv1m8wok07216g2getrt_jpeg.rf.22c0ebfb67cc9ad7415929c8053d1f80.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txs402uehd070195c9mfko_jpeg.rf.b47277846338d037c30f92e0213833d5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (148).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1655).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (410).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1399).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (234).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1691).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (365).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (837).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ndoj9r8u8w07216trgrwuz_jpeg.rf.b43b5ab2970d7b610b7ec6ad50ae1e51.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (387).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1562).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (717).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (129).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1079).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kcso214r0r0863m2otgmja_jpeg.rf.b48fb357a1a6847855385883a548e024.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (147).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1742).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1319).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke190.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1799).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rpg5vz5vk20944kk0yhjy5_jpeg.rf.b492365ac3b96ced581dec7e1520b8b8.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (616).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nf4ks0js7z0848cku0h6t5_jpeg.rf.d406f9db90a5286932149187bb9ae070.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1532).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (266).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (372).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke34.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1528).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1245).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (556).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (609).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0m1lu0nhb320863zyoofeiw_jpeg.rf.d1572810a2efaa39331be3bc04496e0f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (829).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1012).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (470).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1246).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tzmo81wtq50721yer41mgt_jpeg.rf.afb4e1c9346de07f87219b9f5acf477a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1868).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kksymy5z9j0794x0i3rdvo_jpeg.rf.fd456fe4ab48c81800a19519d6b99ee9.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1636).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1567).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (686).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (936).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (935).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ngmuykjkh80a46a5qzv263_jpeg.rf.6bb3f531365367bd777a69128685e921.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1486).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (653).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kdox8w69td0838i6leuzy9_jpeg.rf.333d536f32a8de44a092dd547d2f1632.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0iymarljc079432rld6ur_jpeg.rf.049e444971d411f2bc15d14189f8ebc9.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (411).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1335).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kd70pu4w7b07946742zfpg_jpeg.rf.1d003cc575564d535e0d78de10cf2179.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1462).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0dcgdwy9r072177202gnd_jpeg.rf.ed8b6721555e8d9aba61dce9a162f6df.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke9.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u01dbyuoe30701p6pfzb0q_jpeg.rf.dc34aba657747af88bf1eec63f19ea6b.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1584).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (725).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (150).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tzh0mmsjb70863m9jdqypg_jpeg.rf.6b4347c866f9e0768115f0ce603f0b3b.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ujxg4qyroe0721yt57ymqa_jpeg.rf.0c16dbb547f7c6d169dbb0234e411afd.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (522).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (497).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (774).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (879).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1286).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1661).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (483).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (582).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (683).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (638).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0k9dg0vjxcg0848rmqzl38w_jpeg.rf.aa2243c64fd18ad4e8c179d09c12cbfc.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (943).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1822).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke24.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (533).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1857).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (400).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1207).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kd7h8nj2m70a469e4k6x92_jpeg.rf.f645d6becaa1da2654c27198f8a2651f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1242).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (993).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1024).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lzyygqj00t0944qnwlwjf2_jpeg.rf.fbbbc2b4e6b9dd5b8242be555a897ed4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1411).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tyk5ussex90863mbb4h9of_jpeg.rf.cef68a0c31485c36ad5ace1aaebfeacb.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1702).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ty7yegwn140721h5wixp2h_jpeg.rf.24f23d741874697a2aebd86b8968c470.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1090).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0m0dqtaz70838kcm0o9w3_jpeg.rf.18bc37d578299e69072fb85c71c3c445.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u13mbhte0v0838nxz2zdkf_jpeg.rf.ea7ac3c4de6eb11b8eb611eb4607088c.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1177).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t3s74cnfks070126deykt2_jpeg.rf.e83ffc98b2dd129c1a6df088d5191aca.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1011).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke28_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tx2twm5xya0a46rieclafo_jpeg.rf.6cb4bd5df71d1c5c2e0aedf48114f10c.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (618).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1205).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1612).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ncye0iiouc0848ostst7bq_jpeg.rf.be5d0f452dbe6f8a417b9dffc48b71ed.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1475).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (418).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1400).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1491).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqf6p055aw0838g7rq1u9v_jpeg.rf.6d20312e29819ab26cdf6da38f885548.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (870).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ndbtmr8oa50721hzgxpue8_jpeg.rf.98eed4485749aa292c11bfba07625367.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (356).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (876).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke51.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1322).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (361).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1657).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nfo0y4a2a00721ek5g056r_jpeg.rf.070d4dacf3babbc0c0d472c9c718cf6e.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1314).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t7yaokmuhl0863v1rlsm5p_jpeg.rf.62c77619d32f766079b9e3320f8510a3.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1268).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1086).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nehpd69bax0721onacbe33_jpeg.rf.02ed50fbcb97fee8681eece1df7f397d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1093).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1708).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (420).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (805).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t2zodcyvqs0a46wwxb53xm_jpeg.rf.591428193ebc323cd1c39f73030dc388.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rp6q4583zz0721mrh6corb_jpeg.rf.6c9057672080ed7dbaadd8800ec48864.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke136.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1269).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1706).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0keo0re4xll086378211i65_jpeg.rf.08a1bd4e2e0d1690e1a2d6f8b6986e45.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (421).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke22.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (900).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1081).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (295).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1605).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (138).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1336).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke0.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (655).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0tzjni6sjt50863e6a6a8fl_jpeg.rf.46d343d22cd08c90668cc0d50bc52a2d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke12.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qbnvn6hk6w0701x0mcjvq8_jpeg.rf.dae439c3ddfdef76b1c1e360c545aac1.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0l9xgch9grx0794i0878xu3_jpeg.rf.cf1e618e34680202cdbffa88c5dde147.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (669).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rplig25z1n0944kpecwx3o_jpeg.rf.b722d566aa6aed2e9d6f2fefee001800.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1056).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke101.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (899).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (684).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1163).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (786).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t592vckr6p07949h19oxce_jpeg.rf.4957f384420110763cc2a3d067da7ef2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (531).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (864).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kmftzekfwv0a46aj0nh5dz_jpeg.rf.a9f20064706442166518aaa4f5274d5a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (377).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ndcirh69sn0944tmwamh75_jpeg.rf.189c54c4fb6ee1d72226e876b613b29a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0l8askp96bh0794bppil14t_jpeg.rf.d00754fce81830149f3584d6ade4e481.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t74gx40b5u0a46s72no2dg_jpeg.rf.57da3c38696a55082327c502be780c59.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (691).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kkxngib3qh0721x6mgyttk_jpeg.rf.afb584262900b490af2914fa207e1231.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1230).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1070).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (551).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kcju199xgd0721ljl6cd2n_jpeg.rf.1b068071c8dfc4cf3573f0a0e217f523.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1082).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (513).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (617).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txgnxxud4y0701d5z7lpx7_jpeg.rf.7c53c82d64933f2062ad37195fb14522.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke66.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1571).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (198).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t4mzl8ljds0863b0iswyfc_jpeg.rf.8199d7ed9b0e3dd7ed0ec1dcc90ca7f8.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (261).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (827).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0oumds8r2ws0794yqsnls8v_jpeg.rf.012d2c43910a089d6fec492c2b914840.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1805).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (834).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kkv2jf8pil09448qnz1ndu_jpeg.rf.fa40e68bec965ba376f16ed65cb1347d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1734).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kdhizwj37t0a461n7bsvun_jpeg.rf.6d618207aa9bed9805920f9625f0c67b.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qb9do2fwc708385reizk6h_jpeg.rf.8353ce140548c4b5d4ab719c8245c229.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ngmfoyjka50a46cagrxpig_jpeg.rf.b56c9e63661229064c68f3360e6c3e0c.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (121).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke23_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1838).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ukkz8tytsn0721y70sud46_jpeg.rf.18cbd5352f166266b09e38e04afa7394.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u030x8uono0701kp4dvddz_jpeg.rf.ad0573bf20a8d7dd98be12a62fdcacf4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (890).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (182).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (45).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke137.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (546).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1326).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (891).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (886).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0e1zzwydk07210xx5o9vv_jpeg.rf.608a7432b8a3f61474a7062a6057a434.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1638).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t2pyk3l0ym08636r4hqnty_jpeg.rf.7ca69164d2ca64a00e9c2d1219e7d966.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1390).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1468).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1836).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lxekamu4wa0848z3xssbek_jpeg.rf.9dc2b9d0b5f9d423270c5cec27d575d3.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lwfg8yjmbz07219irceyfl_jpeg.rf.9b5a201db64bd64de373b3b6e5cd12a4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (321).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1478).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (789).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (359).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kkhi2lb1b30721f7ltwn14_jpeg.rf.9f42dc2be9df8d044c78af835f631d80.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (222).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (135).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1503).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qbnoibg4ip0838na1tnqe8_jpeg.rf.ad378d67cf01636d2da92c6b7dd6c24d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (195).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke18_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1193).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke54.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (252).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (630).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1173).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1521).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqzwam6rx20944o5eby5wd_jpeg.rf.8b89d2297e8a6b44294fc73ee9bc6c74.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1428).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lxdhtohhdr0944vck0s787_jpeg.rf.3e2449768aa23a32f11eaad5e009f8b4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nfxm5e5gq50863tqwxrgft_jpeg.rf.d58b0a6b0eb2a0d518d8454db06199a0.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0keq7xa4xxd0863otmigtsy_jpeg.rf.0a9ebb276957d1f41e4e01067287be3f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1727).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (750).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ndfo8l6ov10701vn095htn_jpeg.rf.9b84723a9e3806a07f4ba65c1ac89861.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (427).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0ihp7sq1z086335c6h592_jpeg.rf.60d64a3d41a4fa422f94a17d8294b296.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1557).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (15).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (207).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (294).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqkhjb4o7k0863lhsglv38_jpeg.rf.bead4c393b360becf1513484f1814b97.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kht0vs5k2r079428olg3jt_jpeg.rf.d5030fcc4a23818e5098008df0a1afb2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1058).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0k9aqm99o2o0721aml8qpqr_jpeg.rf.028c79a871f1964bd02ab8c4b5693e6d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (592).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ovrdff7ir20848kelskyn8_jpeg.rf.1424f9ef8aad1bb4eb744770e709807f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1248).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1794).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1222).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0l9j6n6oqjo0848ps5blk3b_jpeg.rf.3d76bb206e4e360465219501507019c5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (979).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1325).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kosu846k350794gya7bot0_jpeg.rf.e980ecef63c864103fc6d8f4d8ed7ded.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1345).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1764).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kmf5q58yik0944gdwwrqnt_jpeg.rf.acd14651f0f7c3762be88a81ee82e1a2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1853).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1453).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (613).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (23).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1659).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (408).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1162).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (861).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1020).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1479).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (570).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (425).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txdhj9wk390721me7hmajn_jpeg.rf.0b9072848081252656285ddaab966c7a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1587).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (968).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ngm4b3jk5e0a46nplsw4xb_jpeg.rf.a8bb6e7e544239d9fa85ac701cae37d1.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1648).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0twef0nu7ej0701ku08izg4_jpeg.rf.1fe4b32547d4ed034980da37cfa48a07.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (354).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (939).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1591).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke6_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (21).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1560).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lxgqhheq2b08638gu6tna1_jpeg.rf.a478e7551b36a9021292245c2c812166.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ujwlr98tkt0848fudx9cb3_jpeg.rf.a06824e458bc658304e03c577aa85c16.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nfq2hsj1ro0a46o4gncg6r_jpeg.rf.cf37f869ea810dc8beaa5a20ee1810ba.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (736).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (128).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (798).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (858).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1549).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (64).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (233).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1721).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1535).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txvtlisck20863fbb7u1gc_jpeg.rf.1437edb3301d4a0f88b143ccf99e6ec6.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t6zwah09e20a4695tura09_jpeg.rf.4f785256363fd90cb8a95a7d23e0f5a2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qbrxq0fc870863u9dy1xsl_jpeg.rf.109b574c27fa09fdc65125fc9214e872.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (978).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1127).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (311).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1607).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rp7ech84jq0721s8wfw8tz_jpeg.rf.f49f246eef35370ed9da3d797409fa3c.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lwgsmatsrm0848br00vfki_jpeg.rf.324fd4d4db28e2d3e27e1ee048653fdb.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1632).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (10).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1720).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (88).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (248).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nf4rw3093h0a886by1nwca_jpeg.rf.3c169639b6d7abb01c879573821f91e6.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (975).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke57.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u0fzglungw0944luype68g_jpeg.rf.72dd483404428808af29d85476e3c964.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1023).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke112.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1041).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (130).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nem99k9e9v0721yu2dtiqq_jpeg.rf.5a06cc52462c4dcadb3a74d3f3874cf3.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (998).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nepj3s015b0a88py3wvbqu_jpeg.rf.01b8d358da600d8494a1cee81cceeef8.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (704).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1185).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1051).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (515).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t52natq0it07218mpku7q5_jpeg.rf.18fa7308a214c8870ca0ce19768957ba.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke90.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (244).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (769).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke49_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1665).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqdyeq4kxa08633xv2wqe1_jpeg.rf.30df6babe258cdc1d5a4e042262665e4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0owog84vf1d0701sbf84fw6_jpeg.rf.23520b25c8438e04b437470b98686092.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (68).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1884).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1623).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (450).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1078).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (770).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (357).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (808).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (504).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rr0ik14xk30863c291xijp_jpeg.rf.3c70093e86be1cc8829314752cdf5fb8.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1004).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1824).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (751).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kkg0u65u3q0863z6w2psqp_jpeg.rf.80b296c2869e29872d0e01490464314e.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1384).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (675).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (149).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kl3wpd616z079452ea8lq2_jpeg.rf.c9ef393eca807516bb64ed1f77d1c329.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1214).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (649).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (401).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ukjmceuk3t0863k4o3i8g4_jpeg.rf.37d48b6e7770d656a7fdfbf311aa50c4.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1451).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lyf2lnhyy10944t8eb842u_jpeg.rf.ce489168cc3c9f5e7df796c885a30097.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (241).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (60).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (464).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1637).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1861).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0txw47261iz0a46k76oyfzj_jpeg.rf.af3dfd2ec9adef7cd9c7e57e79ff8598.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (974).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kfmg3p6jh90838qxnikor1_jpeg.rf.c940db5cb0499c51a3e30d63ebb6f584.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (87).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1275).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rpjxds42tv0863ke8nrsmn_jpeg.rf.3d619fc088a888f7c7cc57c98a4f6498.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1575).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t2b97en04q0701ndyfepcr_jpeg.rf.ac281f6d5078708c7bca258d12259f9d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (745).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0u14y7arp5c0794llhscme5_jpeg.rf.b9a8d990ee70e43ff692e1ad75c6df7d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1848).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (562).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1283).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (469).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kdra5c7mjh0944w97n0exh_jpeg.rf.9c74c6aa1eddac85e5e0b25cd6659bae.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke20.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kexd04j9w30a4628x0rzxi_jpeg.rf.6a174120a844ca0a1362c1ba4ce9dae5.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1165).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1147).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0nfuci585lm0701jw9i5zhj_jpeg.rf.780ea7d50c01236a2a9d4d03eda1d8ce.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (493).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t6c6eg0n3m08483m1afytd_jpeg.rf.bd34ea97915de5348293b62b301df38f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke10_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1440).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1425).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1463).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1674).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rp9iochje10a46pq920puz_jpeg.rf.b57dbfcab2e3f4b15b88f1895a440510.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t5wu9ao70b0701rdv7c7af_jpeg.rf.cc0f00f739a08c1d6337f7f6e32ce03d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kdeqv8a00m0721x8avt6qe_jpeg.rf.ccb567cc23cf7f9a2ceeb4634041509a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (825).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (997).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1370).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1585).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1722).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lxhudct3ac0a46446v80ie_jpeg.rf.e82cf40e85c95c941bb2f1e6b79fd863.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rpe8ja3z6m0863q1narygs_jpeg.rf.751b9497645f516d0e98cd415c7fad51.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1548).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0m1643sidi5083850vpmnkb_jpeg.rf.fbbe02a32c796d693e4d3c6f3e81a70e.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0m1maf2vnl30a46vnjvga3r_jpeg.rf.eecd77e33b3da8be70b8d3390ace85df.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1106).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1259).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1458).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (995).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (255).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1387).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1757).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke33.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0rqlgco58j50838724x6rym_jpeg.rf.b5b8263fb657e6a09f94583c21fc28ea.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (220).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kdhymna0b10721v4wntit8_jpeg.rf.a08e34d04fb672ce6cf8e94e810ec81d.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t5243y02ss0848d4w8z1bl_jpeg.rf.073eb5726a7f3fca2caa57b085c7b655.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (569).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1118).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (323).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (852).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (942).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lwirdeh6zk0944n5uj6q6i_jpeg.rf.beb382bc3df8be917ce1555d278bdc2a.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (214).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (324).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0ng67nbkhul0848gacp299b_jpeg.rf.501679d0dc13efc689d1b239b7a8a4d6.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke30_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0m14kd9vbfd0a46f2gcpvjf_jpeg.rf.c49003cb0729e8f494413b31f42c151f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0lxaxgyeo150863mih7ypb7_jpeg.rf.dca30f8032e82112c6a2ce241de0d4d7.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (313).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1692).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1120).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (417).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t24ndxkug60863id6f8pfc_jpeg.rf.5e489fbf3eadafbe13567c4cac0baad3.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qd918zic840701hnezgpgy_jpeg.rf.30de65aa3639b8a113db71a11bc2726c.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke95.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (520).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1845).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1436).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/H_smoke39_2.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0kow7lga3y30701f2yvt2b2_jpeg.rf.ecf01b0da90868c719b611d91b39ffaa.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (753).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qb8cz6tfnt0848glf38bpe_jpeg.rf.b27022571ef7b9a910830eeffde9bd30.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1427).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (494).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (972).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1476).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1501).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1169).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1610).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1791).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0qd7oxtgwug08385hhoh6c6_jpeg.rf.ed34a7e543981c7060fe65e63c03952f.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/ck0t4kdl1nlyb07011sj8qjd8_jpeg.rf.0a712e797adaffd2ba69b30c0005fe83.jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (585).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1017).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (183).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (476).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1464).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (219).jpg
+/Users/hahmwj/Desktop/Generation/onlysmoke/dataset/images/smoker_smoke (1126).jpg
